@@ -1,4 +1,13 @@
 # Angular Homes App
+
+![image](https://github.com/user-attachments/assets/fcadfd0b-523f-4600-acd8-3a714860650b)
+
+![image](https://github.com/user-attachments/assets/548a500a-b947-43ca-a729-7000516dda4d)
+
+
+
+# Getting Setup
+
 - Install Angular if you don't have it installed
 
   `npm install -g @angular/cli`
